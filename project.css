@@ -44,7 +44,7 @@ html,body{
 }
 #line{
     font-size: 100px;
-   
+    font-weight: 400px;
     text-transform: uppercase;
     position: absolute;
     top: 50%;
